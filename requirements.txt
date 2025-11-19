@@ -1,0 +1,6 @@
+symbolicai
+pandas
+numpy
+pydantic
+python-dotenv
+google-generativeai
