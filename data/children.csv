@@ -1,0 +1,6 @@
+child_id,name,age,ethnicity,biological_health,current_health,siblings,location,notes
+C001,Alex,7,Hispanic,Mild asthma,Stable,Yes,Nevada,"Loves soccer"
+C002,Brianna,4,African American,Healthy,Healthy,No,California,"Very social"
+C003,Daniel,10,Caucasian,Healthy,Mild anxiety,No,New York,"Good student"
+C004,Elaine,6,Asian,Healthy,Healthy,Yes,Washington,"Enjoys reading"
+C005,Fernando,12,Hispanic,Serious congenital issues,Serious,No,Arizona,"Requires specialized care"
